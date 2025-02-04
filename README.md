@@ -12,13 +12,12 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 4.	Average Rating:  The average customer rating for items sold.
 
 ## Dataset used
-- <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Details.csv">Dataset</a>
-- <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Orders.csv">Dataset</a>
+- <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
-- Dashboard Interaction <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Madhav%20Store.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/Blinkit.png">View Dashboard</a>
 
 ## Dashboard
 
-![Madhav Store](https://github.com/user-attachments/assets/8a304116-94bb-4d0f-8e82-5ddb140e7632)
+![Blinkit](https://github.com/user-attachments/assets/f1bc6fd6-4ca7-4072-a5c2-c943ecc7a722)
 
 ## Project Learnings:
