@@ -15,7 +15,7 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 - <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
 
 - Dashboard Interaction <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/Blinkit.png">View Dashboard</a>
-- Background KPIs <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/background%20kpi.png">KPIs</a>
+- Background KPIs <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/background%20kpi.png">Bg KPIs</a>
 
 ## Dashboard
 
