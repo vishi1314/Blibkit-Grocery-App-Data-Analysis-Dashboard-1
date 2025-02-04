@@ -70,4 +70,3 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 
 ![Blinkit](https://github.com/user-attachments/assets/f1bc6fd6-4ca7-4072-a5c2-c943ecc7a722)
 
-## Project Learnings:
