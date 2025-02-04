@@ -4,12 +4,12 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 
 ## KPI's Requirements
 1.	Total Sales:  The overall revenue generated from all items sold.
-2.	
-3.	Average Sales:  The average revenue per sale.
-4.	
-5.	Number of Items:  The total count of different items sold.
-6.	
-7.	Average Rating:  The average customer rating for items sold.
+
+2.	Average Sales:  The average revenue per sale.
+
+3.	Number of Items:  The total count of different items sold.
+
+4.	Average Rating:  The average customer rating for items sold.
 
 ## Dataset used
 - <a href="https://github.com/vishi1314/Data-Analysis-Dashboard/blob/main/Details.csv">Dataset</a>
