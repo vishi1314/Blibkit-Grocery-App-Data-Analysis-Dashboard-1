@@ -14,33 +14,33 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 ## Chart's Requirements
 1. Total Sales by Fat Content:
    
-Objective: Analyze the impact of fat content on total sales.
+   Objective: Analyze the impact of fat content on total sales.
 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Chart Type: Donut Chart.
+   Chart Type: Donut Chart.
 
 2. Total Sales by Item Type:
 
-Objective: Identify the performance of different item types in terms of total sales.
+   Objective: Identify the performance of different item types in terms of total sales.
 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Chart Type: Bar Chart.
+   Chart Type: Bar Chart.
 
 3. Fat Content by Outlet for Total Sales:
 
-Objective: Compare total sales across different outlets segmented by fat content.
+   Objective: Compare total sales across different outlets segmented by fat content.
 
-Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
+   Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 
-Chart Type: Stacked Column Chart.
+   Chart Type: Stacked Column Chart.
 
 4. Total Sales by Outlet Establishment: 
 
-Objective: Evaluate how the age or type of outlet establishment influences total sales.
+   Objective: Evaluate how the age or type of outlet establishment influences total sales.
 
-Chart Type: Line Chart.
+   Chart Type: Line Chart.
 
 ## Dataset used
 - <a href="https://github.com/vishi1314/Data-Analysis-Dashboard-1/blob/main/BlinkIT%20Grocery%20Data.xlsx">Dataset</a>
