@@ -1,5 +1,4 @@
 # Blinkit-Grocery-App-Data-Analysis (Interactive Dashboard creation using Power BI)
-
 ## Project Objective
 Analyze sales performance, outlet efficiency, and product trends to optimize business strategies.
 
@@ -75,7 +74,6 @@ To conduct a comprehensive analysis of Blinkits's sales performance, customer sa
 ![Blinkit](https://github.com/user-attachments/assets/f1bc6fd6-4ca7-4072-a5c2-c943ecc7a722)
 
 ## Conclusion
-
 •  $1.20M total sales, with Tier 3 outlets and Supermarket Type 1 leading revenue.
 
 •  Fruits, Snacks, and Household items are top-selling categories.
