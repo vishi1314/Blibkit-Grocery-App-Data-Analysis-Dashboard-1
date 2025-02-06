@@ -1,6 +1,6 @@
 # Blinkit-Grocery-App-Data-Analysis (Interactive Dashboard creation using Power BI)
 
-## Objective
+## Project Objective
 Analyze sales performance, outlet efficiency, and product trends to optimize business strategies.
 
 ## Project Requirement
